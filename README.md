@@ -14,3 +14,5 @@ This file Auto-refreshes every 60 seconds from data provided in yahoo finance an
 
 The main purpose of this initial project is to implement the mathematical understanding of the binomial financial model using python to get a more immersive and visual comprehension on the concecpt.
 In further projects aim to make financial models based off other existing financial models and understand the limitations and expectancies of the effectiveness of understanding the market using the models.
+
+
